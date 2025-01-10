@@ -1,0 +1,2 @@
+# Unreachable Code in Julia
+This repository demonstrates an example of unreachable code in a Julia function and how to fix it.  The original code contains a `println` statement and an unnecessary return statement that will never be executed. The solution shows how to remove this unreachable code to improve readability and maintainability.
